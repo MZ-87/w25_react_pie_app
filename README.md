@@ -1,3 +1,9 @@
+
+Создайте приложение React, подключите к нему модуль графиков  https://www.npmjs.com/package/react-google-charts (документацию можно найти здесь) для React и выведите график типа Pie на основную страницу (данные для графика можете использовать любые).
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
